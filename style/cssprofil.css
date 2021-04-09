@@ -5,7 +5,8 @@
 }
 body {
   /* background-color: darkcyan; */
-  background-color: grey;
+  background-color: black;
+  color: rgb(187, 184, 184);
 }
 
 /* header {
@@ -41,12 +42,12 @@ img {
 }
 
 img:hover {
-  box-shadow: 0 0 10px 5px rgba(0, 140, 186, 0.5);
+  box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.5);
 }
 
 .tombol {
   background-color: transparent; /* Green */
-  color: white;
+  color: red;
   margin-top: 1rem;
   padding: 10px 16px;
   border-radius: 3px;
@@ -57,4 +58,12 @@ img:hover {
 }
 .kontak a {
   text-decoration: none;
+}
+
+.warnalink {
+  color: rgb(187, 184, 184);
+}
+
+a:hover {
+  color: #f1f1f1;
 }

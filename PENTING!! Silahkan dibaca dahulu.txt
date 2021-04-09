@@ -1,2 +1,0 @@
-diusahakan ada koneksi internet, saya menggunakan ajax.google 
-agar tidak membuat size file besar saat diupload

@@ -1,6 +1,7 @@
 body {
   background-color: black;
   margin: 50px;
+  color: white;
 }
 img.nav {
   width: 250px;
@@ -22,7 +23,8 @@ div.iconstrip {
 }
 .tengah {
   text-align: center;
-  padding: 200px;
+  /*padding: 200px;*/
+  padding-top: 200px;
 }
 
 .sidenav {
@@ -67,5 +69,3 @@ div.iconstrip {
     font-size: 18px;
   }
 }
-
-/**/
