@@ -12,6 +12,10 @@ marquee {
   font-size: 30px;
   text-shadow: 2px 2 px #818181;
 }
+footer {
+  font-size: 11px;
+  text-align: right;
+}
 
 img.nav {
   width: 250px;
